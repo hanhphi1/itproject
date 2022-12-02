@@ -1,0 +1,13 @@
+D:\School\Database Management\CoffeShop-DBMS\obj\x86\Debug\CoffeShop-DBMS.csproj.AssemblyReference.cache
+D:\School\Database Management\CoffeShop-DBMS\obj\x86\Debug\CoffeeShop.AccountProfile.resources
+D:\School\Database Management\CoffeShop-DBMS\obj\x86\Debug\CoffeeShop.AdminForm.resources
+D:\School\Database Management\CoffeShop-DBMS\obj\x86\Debug\CoffeeShop.LoginForm.resources
+D:\School\Database Management\CoffeShop-DBMS\obj\x86\Debug\CoffeeShop.MainForm.resources
+D:\School\Database Management\CoffeShop-DBMS\obj\x86\Debug\CoffeShop_DBMS.Properties.Resources.resources
+D:\School\Database Management\CoffeShop-DBMS\obj\x86\Debug\CoffeShop-DBMS.csproj.GenerateResource.cache
+D:\School\Database Management\CoffeShop-DBMS\obj\x86\Debug\CoffeShop-DBMS.csproj.CoreCompileInputs.cache
+D:\School\Database Management\CoffeShop-DBMS\bin\Debug\WindowsApplication.exe.config
+D:\School\Database Management\CoffeShop-DBMS\bin\Debug\WindowsApplication.exe
+D:\School\Database Management\CoffeShop-DBMS\bin\Debug\WindowsApplication.pdb
+D:\School\Database Management\CoffeShop-DBMS\obj\x86\Debug\WindowsApplication.exe
+D:\School\Database Management\CoffeShop-DBMS\obj\x86\Debug\WindowsApplication.pdb

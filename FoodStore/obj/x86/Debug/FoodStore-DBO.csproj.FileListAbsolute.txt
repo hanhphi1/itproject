@@ -1,0 +1,14 @@
+D:\Code\FoodStoreEntity\FoodStoreEntity\bin\Debug\WindowsApplication.exe.config
+D:\Code\FoodStoreEntity\FoodStoreEntity\bin\Debug\WindowsApplication.exe
+D:\Code\FoodStoreEntity\FoodStoreEntity\bin\Debug\WindowsApplication.pdb
+D:\Code\FoodStoreEntity\FoodStoreEntity\obj\x86\Debug\FoodStore-DBO.csproj.AssemblyReference.cache
+D:\Code\FoodStoreEntity\FoodStoreEntity\obj\x86\Debug\FoodStore-DBO.csproj.SuggestedBindingRedirects.cache
+D:\Code\FoodStoreEntity\FoodStoreEntity\obj\x86\Debug\CoffeeShop.AccountProfile.resources
+D:\Code\FoodStoreEntity\FoodStoreEntity\obj\x86\Debug\CoffeeShop.AdminForm.resources
+D:\Code\FoodStoreEntity\FoodStoreEntity\obj\x86\Debug\CoffeeShop.LoginForm.resources
+D:\Code\FoodStoreEntity\FoodStoreEntity\obj\x86\Debug\CoffeeShop.MainForm.resources
+D:\Code\FoodStoreEntity\FoodStoreEntity\obj\x86\Debug\CoffeShop_DBMS.Properties.Resources.resources
+D:\Code\FoodStoreEntity\FoodStoreEntity\obj\x86\Debug\FoodStore-DBO.csproj.GenerateResource.cache
+D:\Code\FoodStoreEntity\FoodStoreEntity\obj\x86\Debug\FoodStore-DBO.csproj.CoreCompileInputs.cache
+D:\Code\FoodStoreEntity\FoodStoreEntity\obj\x86\Debug\WindowsApplication.exe
+D:\Code\FoodStoreEntity\FoodStoreEntity\obj\x86\Debug\WindowsApplication.pdb

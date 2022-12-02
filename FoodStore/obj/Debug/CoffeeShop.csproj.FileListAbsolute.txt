@@ -1,0 +1,13 @@
+D:\Winform\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+D:\Winform\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+D:\Winform\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+D:\Winform\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+D:\Winform\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+D:\Winform\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+D:\Winform\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+D:\Winform\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+D:\Winform\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+D:\Winform\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.MainForm.resources
+D:\Winform\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.AccountProfile.resources
+D:\Winform\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.AdminForm.resources
+D:\Winform\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.LoginForm.resources
