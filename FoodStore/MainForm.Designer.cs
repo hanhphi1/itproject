@@ -340,11 +340,11 @@ namespace CoffeeShop
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Showcard Gothic", 36F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(31, 530);
+            this.label1.Location = new System.Drawing.Point(171, 530);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(887, 74);
+            this.label1.Size = new System.Drawing.Size(553, 74);
             this.label1.TabIndex = 12;
-            this.label1.Text = "Trung Nguyen\'s Food Store";
+            this.label1.Text = "UTE\'s Food Store";
             // 
             // MainForm
             // 
